@@ -9,4 +9,6 @@ To track my solutions for Xamarin.Forms
   - No solution yet
 
 ### ScrollView
-- [x] Set padding to >0 to enable scroll
+- [x] To enable scroll
+  - Padding > 0 
+  - If StackLayout as child, VerticalOptions<>"Start"
