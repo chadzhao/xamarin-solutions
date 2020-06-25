@@ -10,5 +10,6 @@ To track my solutions for Xamarin.Forms
 
 ### ScrollView
 - [x] To enable scroll
-  - Padding > 0 
+  - Padding > 0 (recommend 1 or 0.1, otherwise when stop may hide partical header)
   - If StackLayout as child, VerticalOptions<>"Start"
+  - Set child's padding to keep space
