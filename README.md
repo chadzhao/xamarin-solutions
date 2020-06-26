@@ -11,6 +11,7 @@ To track my solutions for Xamarin.Forms
   - Manually set Shell.FlyoutHeader's HeightRequest = Application.Current.MainPage.Height
   - Then all flyout filled with your custom content view
   - Use Shell.Current.FlyoutIsPresented = true/false to hide or open
+- [x] [Flyout right side](https://github.com/balbarak/xamarin-shell-rtl)
 
 ### ScrollView
 - [x] To enable scroll
