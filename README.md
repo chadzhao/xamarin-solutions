@@ -8,7 +8,7 @@ To track my solutions for Xamarin.Forms
   - Tried reset Scroll Position (include reflect method) but failed
   - No solution yet
 - [x] ~~Custom Flyout Panel~~
-  - **Update** : Bad user experence, use custom side drawer instead.
+  - **Update** : Bad user experence, use [Custom Side Drawer](shell/side-drawer.md) instead.
 - [x] [Flyout right side](https://github.com/balbarak/xamarin-shell-rtl)
 
 ### ScrollView
@@ -26,4 +26,4 @@ To track my solutions for Xamarin.Forms
 
 ### Side Drawer
 - [x] [Custom Side Drawer](shell/side-drawer.md)
-  - No render, no thired pary lib
+  - No render, no third party lib
