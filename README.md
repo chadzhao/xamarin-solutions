@@ -7,11 +7,10 @@ To track my solutions for Xamarin.Forms
   - [Issues 1](https://github.com/xamarin/Xamarin.Forms/issues/8795), [Issues 2](https://github.com/xamarin/Xamarin.Forms/issues/10501)
   - Tried reset Scroll Position (include reflect method) but failed
   - No solution yet
-- [x] Custom Flyout Panel
-  - ~~On appShell.PropertyChanged, if(e.PropertyName == nameof(Height)) flyoutHeader.HeightRequest = appShell.Height;~~
-  - ~~Then all flyout filled with your custom content view~~
-  - ~~Use Shell.Current.FlyoutIsPresented = true/false to open or hide~~
+- [x] ~~Custom Flyout Panel~~
   - **Update** : Bad user experence, use custom layout instead.
+- [x] [Custom Side Drawer](shell/side-drawer.md)
+  - No render, no thired pary lib
 - [x] [Flyout right side](https://github.com/balbarak/xamarin-shell-rtl)
 
 ### ScrollView
