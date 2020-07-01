@@ -23,4 +23,4 @@ To track my solutions for Xamarin.Forms
 
 ### Frame
 - [x] Corner Radius not show on iOS sometimes
-  - Make sure child element has margin, save as CornerRadius
+  - Make sure child element has margin, same value (can only set XY) as CornerRadius
