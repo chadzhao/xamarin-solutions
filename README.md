@@ -27,3 +27,11 @@ To track my solutions for Xamarin.Forms
 ### Side Drawer
 - [x] [Custom Side Drawer](shell/side-drawer.md)
   - No render, no third party lib
+
+### Erros
+- [x] Specified cast is not valid
+  - Check xaml bindings
+  - Check if you push a page, with NavigationPage
+  ``` C#
+  await Navigation.PushAsync(new **NavigationPage**(new SomeContentPage()));
+  ```
