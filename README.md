@@ -8,9 +8,7 @@ To track my solutions for Xamarin.Forms
   - Tried reset Scroll Position (include reflect method) but failed
   - No solution yet
 - [x] ~~Custom Flyout Panel~~
-  - **Update** : Bad user experence, use custom layout instead.
-- [x] [Custom Side Drawer](shell/side-drawer.md)
-  - No render, no thired pary lib
+  - **Update** : Bad user experence, use custom side drawer instead.
 - [x] [Flyout right side](https://github.com/balbarak/xamarin-shell-rtl)
 
 ### ScrollView
@@ -25,3 +23,7 @@ To track my solutions for Xamarin.Forms
 - [x] Corner Radius not show on iOS sometimes
   - Make sure child element has margin, same value (can only set XY) as CornerRadius
   - My case is StackLayout as child
+
+### Side Drawer
+- [x] [Custom Side Drawer](shell/side-drawer.md)
+  - No render, no thired pary lib
