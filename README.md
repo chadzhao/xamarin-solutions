@@ -18,3 +18,9 @@ To track my solutions for Xamarin.Forms
   - Padding > 0 (recommend 1 or 0.1, otherwise when stop may hide partical header)
   - If StackLayout as child, VerticalOptions<>"Start"
   - Set child's padding to keep space
+- [x] Case layout over head when use as root
+  - Wrap by AbsoluteLayout to fix it
+
+### Frame
+- [x] Corner Radius not show on iOS sometimes
+  - Make sure child element has margin, save as CornerRadius
