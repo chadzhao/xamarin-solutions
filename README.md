@@ -35,3 +35,7 @@ To track my solutions for Xamarin.Forms
   ``` C#
   await Navigation.PushAsync(new **NavigationPage**(new SomeContentPage()));
   ```
+  
+### Debug
+- [x] [Android] data wiped everytime uninstall
+  - Turn off backup via Settings -> System -> Backup, turn off whaterver backup provider(mine is Google Drive) 
